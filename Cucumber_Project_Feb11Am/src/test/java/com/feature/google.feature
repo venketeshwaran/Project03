@@ -7,5 +7,5 @@ Scenario: User Search Women t20 Worldcup in google
 	And User enter a term of "Womens t20 worldcup 2023" 
 	And User click the enter button 
 	Then User Validate the page
-	
+
 	

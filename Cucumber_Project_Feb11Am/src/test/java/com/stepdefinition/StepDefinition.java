@@ -47,6 +47,7 @@ public class StepDefinition extends BaseClass{
 		String Excepted = "Google";
 		
 		Assert.assertEquals(Excepted, actual);
+		System.out.println("New");
 	}
 
 
